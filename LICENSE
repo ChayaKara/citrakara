@@ -1,21 +1,54 @@
-MIT License
+CITRAKĀRA LICENSE (PROPRIETARY FREEWARE)
+Copyright (c) 2025 ChayaKara (Sang Buluputih)
 
-Copyright (c) 2025 ChayaKara
+===================================================================
+1. PREAMBULE (FILOSOFI)
+===================================================================
+Aplikasi ini dikembangkan dengan semangat berbagi manfaat, selaras dengan prinsip:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ
+"Sebaik-baiknya manusia adalah yang paling bermanfaat bagi manusia lainnya."
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Tujuan utama lisensi ini adalah memastikan aplikasi tetap GRATIS untuk semua orang, 
+namun tetap melindungi integritas karya asli penciptanya.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+===================================================================
+2. IZIN PENGGUNAAN (GRANT OF LICENSE)
+===================================================================
+Izin diberikan kepada siapa saja untuk:
+a. Mengunduh, menginstal, dan menggunakan perangkat lunak ini secara GRATIS.
+b. Menggunakan perangkat lunak ini untuk keperluan pribadi maupun komersial 
+   (misal: studio foto, pekerjaan profesional).
+c. Menyebarluaskan file instalasi (installer) asli kepada pihak lain selama 
+   tidak memungut biaya.
+
+===================================================================
+3. PEMBATASAN (RESTRICTIONS)
+===================================================================
+HAK CIPTA PENUH ADA PADA PENGEMBANG. DILARANG KERAS UNTUK:
+
+a. Memodifikasi, membongkar (decompile), atau melakukan rekayasa balik 
+   (reverse engineering) terhadap kode sumber maupun file biner aplikasi.
+b. Menjual, menyewakan, atau mengomersialkan aplikasi ini dalam bentuk apapun.
+c. Menghapus, mengubah, atau menyembunyikan identitas pengembang 
+   (ChayaKara / PFU Media) dan pemberitahuan hak cipta di dalam aplikasi.
+d. Mendistribusikan ulang versi modifikasi dari aplikasi ini.
+
+===================================================================
+4. KOMPONEN PIHAK KETIGA
+===================================================================
+Aplikasi ini menyertakan distribusi "ExifTool" untuk memproses metadata gambar.
+
+ExifTool
+Copyright (c) Phil Harvey
+Distributed under the Perl/Artistic License.
+https://exiftool.org/
+
+Penggunaan ExifTool dalam aplikasi ini tunduk pada lisensi aslinya.
+
+===================================================================
+5. PENOLAKAN TANGGUNG JAWAB (NO WARRANTY)
+===================================================================
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN.
+PENGEMBANG TIDAK BERTANGGUNG JAWAB ATAS KEHILANGAN DATA, KERUSAKAN PERANGKAT KERAS, 
+ATAU KERUGIAN LAIN YANG TIMBUL AKIBAT PENGGUNAAN APLIKASI INI.
